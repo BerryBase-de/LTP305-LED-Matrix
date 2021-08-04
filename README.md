@@ -1,7 +1,6 @@
 # LTP305-LED-Matrix
 # Pre-requisites
-
-2/ Enable i2c :
+Enable i2c :
 ```sh
 sudo raspi-config nonint do_i2c 0
 ```
